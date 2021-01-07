@@ -1,3 +1,7 @@
+/*power of 2
+author-L.S.Kanishka*/
+
+
 import java.util.Scanner;
 public class Exercise8 {
 

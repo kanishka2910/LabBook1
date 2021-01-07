@@ -1,3 +1,6 @@
+/*Prime numbers
+author-L.S.Kanishka*/
+
 import java.util.Scanner;
 public class Exercise4 {
 	public static void main(String args[])

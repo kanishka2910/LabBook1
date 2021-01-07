@@ -1,3 +1,6 @@
+/*Calculate Sum
+author-L.S.Kanishka*/
+
 import java.util.Scanner;
 public class Exercise5 {
 	public static void main(String[]args)

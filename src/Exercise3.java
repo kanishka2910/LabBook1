@@ -1,3 +1,6 @@
+/*Fibonacii
+author-L.S.Kanishka*/
+
 public class Exercise3 {
 public static void main(String[]args)
 {

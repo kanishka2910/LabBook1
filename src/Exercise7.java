@@ -1,3 +1,6 @@
+/*Increasing number
+author-L.S.Kanishka
+*/
 
 
 import java.util.Scanner;

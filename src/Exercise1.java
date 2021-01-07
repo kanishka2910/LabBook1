@@ -1,6 +1,6 @@
 /*sum of the cubes of the digits of an n digit number
  * author-L.S.Kanishka
- */
+ **/
 
 
 public class Exercise1 {
